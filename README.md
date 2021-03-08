@@ -1,2 +1,1 @@
-![screenshot](task6.png)
-![gif](task6.1.gif)
+![screenshot](task1.png)
