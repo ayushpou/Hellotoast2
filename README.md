@@ -1,2 +1,1 @@
-Landscape
-![screenshot of tablet](challenge.png)
+![screenshot](task2.1.png)
